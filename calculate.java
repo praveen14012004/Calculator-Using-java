@@ -18,7 +18,7 @@ public class calculate {
         ch = sc.nextInt();
         if (ch==1) {
             cal=n1+n2;
-            System.out.println("The Sum of " + n1+ " and " + n2 +" = "+ cal);
+            System.out.println("The Sum of " + n1 + " and " + n2 + " = " + cal);
 
         }
         else if (ch==2) {
